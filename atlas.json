@@ -1,6 +1,7 @@
 {
   "branch": "master",
   "files": [
+    "toc-atlas.md",
     "markdown/chapter01_basic.md",
     "markdown/chapter02_best_practices.md",
     "markdown/chapter03_notebook.md",
