@@ -4,5 +4,4 @@ word
 .ipynb_checkpoints
 matplotlibrc
 *.bat
-*.json
 *.txt
