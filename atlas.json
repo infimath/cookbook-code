@@ -1,7 +1,21 @@
 {
   "branch": "master",
   "files": [
-     "errata.md"
+    "markdown/chapter01_basic.md",
+    "markdown/chapter02_best_practices.md",
+    "markdown/chapter03_notebook.md",
+    "markdown/chapter04_optimization.md",
+    "markdown/chapter05_hpc.md",
+    "markdown/chapter06_viz.md",
+    "markdown/chapter07_stats.md",
+    "markdown/chapter08_ml.md",
+    "markdown/chapter09_numoptim.md",
+    "markdown/chapter10_signal.md",
+    "markdown/chapter11_image.md",
+    "markdown/chapter12_deterministic.md",
+    "markdown/chapter13_stochastic.md",
+    "markdown/chapter14_graphgeo.md",
+    "markdown/chapter15_symbolic.md"
   ],
   "formats": {
     "pdf": {
